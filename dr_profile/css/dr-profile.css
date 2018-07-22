@@ -1,0 +1,28 @@
+body {
+  font-family: 'Lato';
+  background-color: #8B008B;
+}
+
+.patient-description {
+  vertical-align: right;
+  float: right;
+}
+
+.button-setting{
+  float: right;
+}
+
+.avatar {
+  float: left;
+  height: 60px;
+  width: 60px;
+  border-radius: 20px;
+}
+
+.col-lg-4 {
+  align-content: left;
+}
+
+.text-center {
+	background-color: #9932CC;
+}
